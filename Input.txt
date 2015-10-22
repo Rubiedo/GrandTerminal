@@ -1,0 +1,5 @@
+Bus77 BusShared 5 12 40 7 1 1.2
+SilverLineBus BusHybrid 7 20 5 3 10 1 1 1.15
+RedLine UrbanDedicated 16 18 17 8 6 1 1 2
+GreenLine UrbanHybrid 12 10 19 11 10 2 1 1 2 1.25
+LowellLine CommuterDedicated 25 30 6 30 5 1 1 2 1

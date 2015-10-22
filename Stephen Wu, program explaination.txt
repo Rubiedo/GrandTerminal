@@ -1,0 +1,7 @@
+Name: Stephen Wu
+Date Today: October 9th, 2013
+Date of Submission: October 11th, 2013
+
+The first thing I did for this project, was read the requirements. I observed that there were 5 classes, 1 abstract, 1 interface, and one main class. I separated each of the forms of transportation into the 5 different classes. I noticed that I would be using the same methods and the same variables throughout the project, so I created the abstract, and then I made an interface for getEngines(). All classes 'extended' the parent class, and only the CommuterDedicated 'implemented' the interface. With the main class, I initialized the variables, and then decided that it could be hard to have to manually input values through keyboard. Inputting from file made much more sense. Pulling each line, I dissected it based on spaces. Based on the classes, I determined what variables required what variables and in a switch statement I made it unique so that each class would correspond to the correct class. Within each switch case, I also made it so that the totals would add up and be able to print.
+
+In order to run the program, I had to run the program in Dr. Java. Eclipse could not recognize the Input.txt file, but Dr. Java recognized it immediately.
